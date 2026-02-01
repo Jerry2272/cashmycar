@@ -18,12 +18,12 @@ const CTA: React.FC = () => {
           the stress of traditional lending.
         </p>
 
-        <div className="flex flex-col sm:flex-row justify-center lg:gap-6 gap-2">
-          <a href=""     className="bg-[#159C47] text-white font-semibold py-4 px-8 rounded-full hover:bg-[#159C47] hover:text-white transition-all duration-300 lg:w-[200px] w-[300px h-[50px] flex justify-center items-center">
+        <div className="flex flex-col sm:flex-row justify-center lg:gap-6 gap-2 text-center">
+          <a href=""     className="bg-[#159C47] text-white font-semibold py-4 px-8 rounded-full hover:bg-[#159C47] hover:text-white transition-all duration-300 lg:w-[200px] w-[280px]  mx-auto h-[50px] flex justify-center items-center">
            Apply for Loan
           </a>
 
-          <a href="" className="border-2 border-[#159C47]   text-[#159C47] font-semibold py-4 px-8 rounded-full transition-all duration-300 shadow-md lg:w-[200px] w-[300px] h-[50px] flex justify-center items-center">
+          <a href="" className="border-2 border-[#159C47]   text-[#159C47] font-semibold py-4 px-8 rounded-full transition-all duration-300 shadow-md lg:w-[200px] w-[240px] h-[50px] mx-auto flex justify-center items-center">
             Speak With an Agent
           </a>
         </div>
