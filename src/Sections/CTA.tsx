@@ -8,7 +8,7 @@ const CTA: React.FC = () => {
     >
       <div className="max-w-4xl mx-auto  flex flex-col gap-6 justify-center items-center">
         
-        <h2 className="text-3xl lg:text-5xl font-bold mb-6 text-gray-900">
+        <h2 className="text-2xl lg:text-5xl font-bold mb-6 text-gray-900">
           Ready to Unlock Cash From Your Car?
         </h2>
 

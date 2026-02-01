@@ -41,9 +41,9 @@ const FAQ: React.FC = () => {
   ];
 
   return (
-    <section id="faq" className="py-24 px-6 [background-image:radial-gradient(circle,rgba(0,0,0,0.3)_1px,transparent_1px)] dark:[background-image:radial-gradient(circle,rgba(255,255,255,0.1)_1px,transparent_1px)] [background-size:20px_20px] bg-repeat will-change-[background-position]  h-screen flex justify-center items-center gap-10" 
+    <section id="faq" className="py-24 px-6 [background-image:radial-gradient(circle,rgba(0,0,0,0.3)_1px,transparent_1px)] dark:[background-image:radial-gradient(circle,rgba(255,255,255,0.1)_1px,transparent_1px)] [background-size:20px_20px] bg-repeat will-change-[background-position]  lg:h-screen flex justify-center items-center gap-10" 
     style={{
-        padding: '10px 15px'
+        padding: '50px 15px'
     }}
     >
       <div className="max-w-4xl mx-auto text-center flex flex-col gap-6">

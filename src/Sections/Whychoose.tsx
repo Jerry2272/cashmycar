@@ -26,7 +26,7 @@ const Whychoose: React.FC = () => {
       padding: '30px 10px'
     }}
     >
-      <h2 className="text-2xl lg:text-3xl font-bold text-white mb-6">
+      <h2 className="text-2xl lg:text-3xl font-bold text-white mb-6 text-center">
         {" "}
         Why Choose <span className="text-[#159C47]">CASHMYCARS</span>?
       </h2>
